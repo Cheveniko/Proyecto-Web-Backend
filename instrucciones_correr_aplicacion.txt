@@ -1,0 +1,19 @@
+Windows:
+
+crear ambiente python llamado envis:
+python -m venv envis
+
+activar ambiente:
+abrir cmd, o command prompt, desde visual studio code o terminal independiente
+(NO FUNCIONA DESDE POWESHELL)
+envis\Scripts\activate.bat
+
+instalar requirimients:
+pip install -r req.txt
+
+Correr aplicacion:
+python app.py run
+
+Linux:
+...
+
